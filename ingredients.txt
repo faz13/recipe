@@ -6,3 +6,4 @@ Chaat recipe:
 - 1/2 cup yogurt
 - crispy noodle
 new
+- add salt
